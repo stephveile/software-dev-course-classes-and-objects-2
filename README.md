@@ -29,7 +29,7 @@ To implement the `BetterStudentManager` class, you will need to complete the met
 
 ### `addStudent(String name, double grade)`
 
-The `addStudent` method should add a student to the list of students. The methood takes a name and a grade as
+The `addStudent` method should add a student to the list of students. The method takes a name and a grade as
 parameters, and should create a new `Student` object with the given name and grade, and add it to the list of students.
 
 ### `removeStudent(String name)`
